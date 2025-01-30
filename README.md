@@ -1,8 +1,6 @@
 <h1 align="center">Heyo 👋, I'm Hope</h1>
 <h3 align="center">A proficient fivem frontend developer from England</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maach2170&label=Profile%20views&color=0e75b6&style=flat" alt="maach2170" /> </p>
-
 - 🤝 I’m currently working on [ClickRP](https://clickrp.org/)
 
 - 👨‍💻 All of my public projects are available at [https://github.com/Maach2170](https://github.com/Maach2170)

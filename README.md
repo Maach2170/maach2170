@@ -8,7 +8,7 @@ I am a Web Developer who is exploring :cloud: type based programing :cloud: whil
  
  🌱 I’m currently improving my <em>react</em> skills, and responsive web design.
  
- 👯 I’m currentlt not looking for freelance, or contracted work!
+ 👯 I’m currently not looking for freelance, or contracted work!
  
  💬 Ask me about Web Development, or FiveM NUI!
 

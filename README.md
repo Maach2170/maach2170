@@ -2,7 +2,7 @@
 
 ---
 
-I am a Full-stack Web Developer who is exploring :cloud: type based programing :cloud: while facilitating the world with User Experience, and Responsive Design with my Skills and Enthusiast about Web Development.
+I am a Web Developer who is exploring :cloud: type based programing :cloud: while facilitating the world with User Experience, and Responsive Design with my Skills.
  
  🔭 I’m currently working on <a href="clickrrp.org">ClickRP</a> as a Head Developer
  

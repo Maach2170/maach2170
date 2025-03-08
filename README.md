@@ -14,7 +14,7 @@ I am a Web Developer who is exploring :cloud: FiveM NUI :cloud: while facilitati
 ---
 
 
-### Tech & Tools Preference
+<h2 align="center">Tech & Tools Preference</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,react,lua,mysql,nodejs,pnpm,py,sass" />

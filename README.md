@@ -6,7 +6,7 @@ I am a Web Developer who is exploring :cloud: FiveM NUI :cloud: while facilitati
  
  🔭 I’m currently working on <a href="https://clickrp.org/">ClickRP</a> as a Head Developer
  
- 👯 I’m currently not looking for freelance, or contracted work!
+ 👯 To inquire about work contact me on discord! (@maachrp)
  
  💬 Ask me about Web Development, or FiveM NUI!
 
